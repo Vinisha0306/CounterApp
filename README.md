@@ -14,19 +14,28 @@ Fechar Count Plus Minus Delete Add is a simple counter application designed to h
 ## OutPut
 
 ### Light Theme
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/f8e1e302-4ff8-4e6d-b4ac-ebf65a66e0b7" width="250" height="550">
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/166e9891-242a-467c-aee9-d6911cf26a30" width="250" height="550">
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/7596245b-b832-4631-9b11-ac6e189fb2e3" width="250" height="550">
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/d6c62bb6-2fa4-4120-8c21-4e3e9977d20e" width="250" height="550">
+
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/5d77d042-98df-4935-a708-229537b3cf99" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/9039019f-ccbd-4936-84d5-002486f89190" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/0fcbdec2-0fc1-411c-82f0-97f31ce81f42" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/5153bdc4-a48e-4a40-baaa-235edb6b564b" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/e2395451-a035-4b5f-81be-e68e9dae689e" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/e786a693-4c9b-4a46-902d-e3098f2c5a1f" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/15320317-8c67-47bc-a9d1-fd7767ee1044" width="250" height="550">
 
 ### Dark Theme
 
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/8d4ea922-860b-44a8-966e-cc07b727610e" width="250" height="550">
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/5751411d-2e92-429e-9f0a-74a832f91248" width="250" height="550">
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/c0a51ece-6d85-4677-b15a-7577fc0137a1" width="250" height="550">
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/9be70348-26ae-4c5d-ad55-b6b94978387b" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/3887eb5d-779c-4c93-840f-733fc4f0277b" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/9862fd2c-7e23-4da5-908d-7c6b9f86dab3" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/a16e652f-d22f-40bc-b22b-e6e658ccea48" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/df14fcaf-1fbb-4f6f-b4a3-578e301d4609" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/e5bc97f1-fbf5-47cc-8ad6-30771b288a9f" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/bce26a77-c6df-4a64-9580-c0bdb570c6b5" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/e9413fde-f773-4ccd-8d7f-3fb9c5bdb539" width="250" height="550">
 
 ## Video
 
-https://github.com/Vinisha0306/CounterApp/assets/143987696/cce084e9-8e82-459d-aa1e-4e1f91e5becf
+https://github.com/Vinisha0306/CounterApp/assets/143987696/171996b6-22fb-4815-ae51-4dda7cf70665
+
+
 
