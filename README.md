@@ -28,3 +28,5 @@ Fechar Count Plus Minus Delete Add is a simple counter application designed to h
 
 ## Video
 
+https://github.com/Vinisha0306/CounterApp/assets/143987696/cce084e9-8e82-459d-aa1e-4e1f91e5becf
+
