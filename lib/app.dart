@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       themeMode: ThemeMode.system,
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }

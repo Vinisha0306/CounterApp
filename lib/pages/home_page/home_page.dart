@@ -10,6 +10,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   List<bool> isSelected = [false, false];
+  TextEditingController counter = TextEditingController();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -36,8 +37,10 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   IconButton(
                     onPressed: () {
-                      counterData[index]['counter']--;
-                      setState(() {});
+                      if (counterData[index]['counter'] > 0) {
+                        counterData[index]['counter']--;
+                        setState(() {});
+                      }
                     },
                     icon: const Icon(
                       Icons.exposure_minus_1,
@@ -111,8 +114,11 @@ class _HomePageState extends State<HomePage> {
                                   children: [
                                     TextButton(
                                       onPressed: () {
-                                        counterData[index]['counter'] -= 10;
-                                        setState(() {});
+                                        if (counterData[index]['counter'] >
+                                            10) {
+                                          counterData[index]['counter'] -= 10;
+                                          setState(() {});
+                                        }
                                       },
                                       child: const Text('-10'),
                                     ),
@@ -174,11 +180,27 @@ class _HomePageState extends State<HomePage> {
         child: ElevatedButton.icon(
           icon: const Icon(Icons.add),
           label: const Text('Add Counter'),
-          onPressed: () {
-            counterData.add(
-              {"title": "Counter ${counterData.length + 1}", "counter": 0},
+          onPressed: () async {
+            await showDialog(
+              context: context,
+              builder: (context) => AlertDialog(
+                content: TextField(
+                  controller: counter,
+                  decoration: const InputDecoration(
+                    hintText: "Counter Name",
+                    labelText: "Counter",
+                  ),
+                ),
+              ),
+            ).then(
+              (value) => setState(
+                () {
+                  counterData.add(
+                    {"title": counter.text, "counter": 0},
+                  );
+                },
+              ),
             );
-            setState(() {});
           },
         ),
       ),
