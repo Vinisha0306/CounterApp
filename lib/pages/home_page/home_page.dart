@@ -186,9 +186,10 @@ class _HomePageState extends State<HomePage> {
               builder: (context) => AlertDialog(
                 content: TextField(
                   controller: counter,
-                  decoration: const InputDecoration(
+                  decoration: InputDecoration(
                     hintText: "Counter Name",
                     labelText: "Counter",
+                    labelStyle: Theme.of(context).textTheme.bodyLarge,
                   ),
                 ),
               ),

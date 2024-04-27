@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
         ),
         textTheme: const TextTheme(
           bodyMedium: TextStyle(color: Colors.black),
+          bodyLarge: TextStyle(color: Colors.white),
         ),
         iconTheme: const IconThemeData(
           color: Colors.black,
