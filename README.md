@@ -26,7 +26,7 @@ Fechar Count Plus Minus Delete Add is a simple counter application designed to h
 ### Dark Theme
 
 <img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/3887eb5d-779c-4c93-840f-733fc4f0277b" width="250" height="550">
-<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/9862fd2c-7e23-4da5-908d-7c6b9f86dab3" width="250" height="550">
+<img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/95dbee84-3962-4055-b741-b7a89863bebd" width="250" height="550">
 <img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/a16e652f-d22f-40bc-b22b-e6e658ccea48" width="250" height="550">
 <img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/df14fcaf-1fbb-4f6f-b4a3-578e301d4609" width="250" height="550">
 <img src="https://github.com/Vinisha0306/CounterApp/assets/143987696/e5bc97f1-fbf5-47cc-8ad6-30771b288a9f" width="250" height="550">
